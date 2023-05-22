@@ -1,0 +1,5 @@
+React: React es un framework de JavaScript desarrollado por Facebook. Se utiliza para construir interfaces de usuario interactivas y reactivas. React utiliza un enfoque basado en componentes, lo que significa que divides la interfaz de usuario en componentes reutilizables. Puedes aprender React a través de la documentación oficial de React y también hay muchos tutoriales y cursos en línea disponibles.
+
+Angular: Angular es un framework desarrollado por Google. Es utilizado para construir aplicaciones web de una sola página (SPA) y aplicaciones web empresariales. Angular utiliza TypeScript, un superconjunto de JavaScript, para proporcionar características adicionales de lenguaje. Puedes encontrar recursos de aprendizaje en la documentación oficial de Angular y en otros sitios web.
+
+Vue.js: Vue.js es otro framework de JavaScript popular que se utiliza para construir interfaces de usuario interactivas. Es conocido por su curva de aprendizaje suave y su fácil integración en proyectos existentes. Vue.js también utiliza un enfoque basado en componentes y es altamente modular. Puedes aprender Vue.js a través de su documentación oficial y otros recursos en línea.
